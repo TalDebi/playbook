@@ -1,0 +1,4 @@
+---
+file_path: "/tmp/ansible-text-file"
+user_name: "Tal"
+package_name: "python3-devel"
